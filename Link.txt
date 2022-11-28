@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/dmi3kno/newcarsalesnorway
+https://www.kaggle.com/datasets/gagandeep16/car-sales
+https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
+https://www.kaggle.com/datasets/kushleshkumar/cornell-car-rental-dataset
